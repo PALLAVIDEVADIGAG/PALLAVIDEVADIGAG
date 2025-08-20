@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am a QA Engineer
-Currently Searching job after 2 years of Mayretnity gap
-Experienced in Manaul testing
-Started learning Automation
+I am a QA Engineer.
+Currently Searching job after 2 years of Maternity gap.
+Experienced in Manaul testing.
+Started learning Automation.
 
 
 ## 🌐 Socials:
